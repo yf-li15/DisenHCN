@@ -1,4 +1,4 @@
-# HIDE
+# DisenHCN
 This is the pytorch implementation of our ICDE'22 paper:  
 
 Yinfeng Li, Chen Gao, Quanming Yao, Tong Li, Depeng Jin, Yong Li, **DisenHCN: Disentangled Hypergraph Convolutional Networks for Spatiotemporal Activity Prediction**, In Proceedings of IEEE 38th International Conference on Data Engineering (ICDE'22).
